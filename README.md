@@ -1,4 +1,4 @@
-# mapswipe-project
+# Create Maps for Vulnerable Communities
 ### Putting the World's Most Vulnerable Communities on the Map
 
 ## Our Mission
