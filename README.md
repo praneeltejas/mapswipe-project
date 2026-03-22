@@ -10,6 +10,7 @@ Current Mission: None
 * **Goal:**
 * **Time Span:**
 
+
 ## Impact Stats
 * **Tiles Swiped:** 
 * **Volunteers Involved:** 
@@ -21,4 +22,7 @@ Current Mission: None
 2. **Validate:** Our team cross-checks data to ensure accuracy.
 3. **Map:** The data is pushed to OpenStreetMap for use by real-world medics and rescuers.
 
-[Join our next Mapathon here]
+[Join our next Mapathon here] https://forms.gle/yTnsfN2dxeY9gi3c6
+
+
+*This project is powered by the [Missing Maps](https://www.missingmaps.org/) global community.*
