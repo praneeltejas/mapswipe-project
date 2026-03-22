@@ -5,10 +5,10 @@
 We use MapSwipe to help organizations like Doctors Without Borders (MSF) identify unmapped communities. Our goal is to ensure that no one is left behind during disaster relief or medical emergencies.
 
 Current Mission: None
-**Objective:** 
-* **Progress:** 
-* **Goal:**
-* **Time Span:**
+**Objective:** Find buildings in Barpeta Kalgachia India
+* **Progress:** 41%
+* **Goal:** Get to 100% 
+
 
 
 ## Impact Stats
