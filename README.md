@@ -8,13 +8,13 @@ Current Mission: None
 **Objective:** 
 * **Progress:** 
 * **Goal:**
-* **Time Span: 
+* **Time Span:**
 
 ## Impact Stats
 * **Tiles Swiped:** 
 * **Volunteers Involved:** 
 * **Regions Supported:**
-* **Time Span:**
+
 
 ## How It Works
 1. **Analyze:** We use satellite imagery to identify human settlements.
